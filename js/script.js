@@ -91,4 +91,8 @@ function abc()
     consBody[1].classList.toggle("active");
     consBody[2].classList.toggle("active");
     consBody[3].classList.toggle("active");
+    consBody[4].classList.toggle("active");
+    consBody[5].classList.toggle("active");
+    consBody[6].classList.toggle("active");
+    consBody[7].classList.toggle("active");
 }
