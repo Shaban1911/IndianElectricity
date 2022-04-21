@@ -395,12 +395,14 @@ background-color: rgba(255, 243, 203, 0.2);
 
 /* Style the faq-page panel. Note: hidden by default */
 .faq-body {
-    padding: 0rem 0rem 1rem;
+    padding: 0rem 0rem 1rem 1rem;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
     border: 1px solid var(--orange);
     background-color: rgb(255 228 138 / 20%);
     display: none;
     overflow: hidden;
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
 }
 
 .faq-page:after {
